@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R --preserve-- 755 . 
+chmod -dR 755 . 
