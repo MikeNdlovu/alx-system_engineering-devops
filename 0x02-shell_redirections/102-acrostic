@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -b 1 it | paste -s
+cut -b 1 it | paste -s -d ""
