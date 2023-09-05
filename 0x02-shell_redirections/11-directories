@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -name * -type d -exec ls -l {} +
+ls -l -d -A
